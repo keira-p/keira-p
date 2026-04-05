@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Keira 👋
 
-<!--
-**keira-p/keira-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer focused on building real-world ML systems with a strong product mindset.
 
-Here are some ideas to get you started:
+## 🔧 What I've been working on recently
+- Recommender systems
+- Audio classification
+- Simulation & forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- 🎲 **MeepleMind** - [Live App]["https://meeplemind-143304324442.europe-west2.run.app/") | [Code]("https://github.com/keira-p/meeplemind-recommender") - deployed recommender system (GCP)
+- 👩‍⚕️ **Smart Stethoscope** - [Live App]("https://smart-stethoscope.streamlit.app/") | [Code]("https://github.com/mi-mi-mia/smart-stethoscope") - API and audio classification (CNN + XGBoost) | *Team Project*
+- 🏆 **TaskLab** - [Live App]("(https://tasklab.streamlit.app/)") | [Code]("https://github.com/keira-p/tasklab") - probablistic forecasting and simulation
+
+## 🛠 Tech
+Python · Scikit-learn · TensorFlow · FastAPI · Docker · GCP · Streamlit
+
+## 🌱 Currently
+Continuing to deepen ML engineering skills and build production-ready systems
