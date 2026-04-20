@@ -1,8 +1,10 @@
 # Hi, I’m Keira 👋
 
+👀 [My Portfolio site]("https://keirapoland.lovable.app/")
+
 Applied Machine Learning Engineer focused on building real-world ML systems with a strong product mindset.
 
-🔗 [Portfolio site]("https://keirapoland.lovable.app/")
+
 
 ## 🔧 What I've been working on recently
 - Recommender systems
