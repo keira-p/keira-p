@@ -1,6 +1,6 @@
 # Hi, I’m Keira 👋
 
-Machine Learning Engineer focused on building real-world ML systems with a strong product mindset.
+Applied Machine Learning Engineer focused on building real-world ML systems with a strong product mindset.
 
 ## 🔧 What I've been working on recently
 - Recommender systems
