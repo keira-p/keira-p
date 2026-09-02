@@ -1,6 +1,6 @@
 # Hi, I’m Keira 👋
 
-Applied Machine Learning Engineer focused on building real-world ML systems with a strong product mindset.
+Applied Data Scientist focused on building real-world ML systems with a strong product mindset.
 
 👀 [Portfolio site](https://keirapoland.lovable.app/)
 
